@@ -1,549 +1,430 @@
-[
-  {
-    "name": "Open Passive Cheats",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <for [Human player] Civilizations> <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Close Passive Cheats",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Close Passive Cheats] [in this city] <hidden from users>",
-      "Remove [Open Passive Cheats] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Production +100%",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unavailable <in cities with a [Production +10%]> <hidden from users>",
-      "Unavailable <in cities with a [Production +25%]> <hidden from users>",
-      "Unavailable <in cities with a [Production +50%]> <hidden from users>",
-      "Unavailable <in cities with a [Production +75%]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[+100]% [Production] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Production +100%",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Only available <in cities with a [Production +100%]> <hidden from users>",
-      "Remove [Production +100%] [in this city] <hidden from users>",
-      "Remove [Stop Production +100%] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Food +100%",
-    "uniques": [
-      "Can be purchased for [0] [Food] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unavailable <in cities with a [Food +10%]> <hidden from users>",
-      "Unavailable <in cities with a [Food +25%]> <hidden from users>",
-      "Unavailable <in cities with a [Food +50%]> <hidden from users>",
-      "Unavailable <in cities with a [Food +75%]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[+100]% [Food] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Food +100%",
-    "uniques": [
-      "Can be purchased for [0] [Food] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Food +100%]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Food +100%] [in this city] <hidden from users>",
-      "Remove [Stop Food +100%] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Gold +100%",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unavailable <in cities with a [Gold +10%]> <hidden from users>",
-      "Unavailable <in cities with a [Gold +25%]> <hidden from users>",
-      "Unavailable <in cities with a [Gold +50%]> <hidden from users>",
-      "Unavailable <in cities with a [Gold +75%]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[+100]% [Gold] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Gold +100%",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Gold +100%]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Gold +100%] [in this city] <hidden from users>",
-      "Remove [Stop Gold +100%] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Science +100%",
-    "uniques": [
-      "Can be purchased for [0] [Science] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unavailable <in cities with a [Science +10%]> <hidden from users>",
-      "Unavailable <in cities with a [Science +25%]> <hidden from users>",
-      "Unavailable <in cities with a [Science +50%]> <hidden from users>",
-      "Unavailable <in cities with a [Science +75%]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[+100]% [Science] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Science +100%",
-    "uniques": [
-      "Can be purchased for [0] [Science] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Only available <in cities with a [Science +100%]> <hidden from users>",
-      "Remove [Science +100%] [in this city] <hidden from users>",
-      "Remove [Stop Science +100%] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Culture +100%",
-    "uniques": [
-      "Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unavailable <in cities with a [Culture +10%]> <hidden from users>",
-      "Unavailable <in cities with a [Culture +25%]> <hidden from users>",
-      "Unavailable <in cities with a [Culture +50%]> <hidden from users>",
-      "Unavailable <in cities with a [Culture +75%]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[+100]% [Culture] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Culture +100%",
-    "uniques": [
-      "Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Culture +100%]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Culture +100%] [in this city] <hidden from users>",
-      "Remove [Stop Culture +100%] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Faith +100%",
-    "uniques": [
-      "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Only available <when religion is enabled> <hidden from users>",
-      "Unavailable <in cities with a [Faith +10%]> <hidden from users>",
-      "Unavailable <in cities with a [Faith +25%]> <hidden from users>",
-      "Unavailable <in cities with a [Faith +50%]> <hidden from users>",
-      "Unavailable <in cities with a [Faith +75%]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[+100]% [Faith] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Faith +100%",
-    "uniques": [
-      "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Faith +100%]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Faith +100%] [in this city] <hidden from users>",
-      "Remove [Stop Faith +100%] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "City Defense +100%",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unavailable <in cities with a [City Defense +10%]> <hidden from users>",
-      "Unavailable <in cities with a [City Defense +25%]> <hidden from users>",
-      "Unavailable <in cities with a [City Defense +50%]> <hidden from users>",
-      "Unavailable <in cities with a [City Defense +75%]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[+100]% City Strength from defensive buildings"
-    ]
-  },
-  {
-    "name": "Stop City Defense +100%",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [City Defense +100%]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [City Defense +100%] [in this city] <hidden from users>",
-      "Remove [Stop City Defense +100%] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Fast Improvement",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[-100]% construction time for [All] improvements"
-    ]
-  },
-  {
-    "name": "Stop Fast Improvement",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Fast Improvement]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Fast Improvement] [in this city] <hidden from users>",
-      "Remove [Stop Fast Improvement] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Remove Unhappiness",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[-100]% Unhappiness from [Population] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Unhappiness Removal",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Only available <in cities with a [Remove Unhappiness]> <hidden from users>",
-      "Remove [Remove Unhappiness] [in this city] <hidden from users>",
-      "Remove [Stop Unhappiness Removal] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Increase Unit XP",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "New [All] units start with [15000] Experience [in this city]",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Stop Unit XP Increase",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Increase Unit XP]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Increase Unit XP] [in this city] <hidden from users>",
-      "Remove [Stop Unit XP Increase] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Expert Spies",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "New spies start with [2] level(s)",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Only available <when espionage is enabled> <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Stop Expert Spies",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Expert Spies]> <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Expert Spies] [in this city] <hidden from users>",
-      "Remove [Stop Expert Spies] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Open Instant Cheats",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <for [Human player] Civilizations> <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Close Instant Cheats",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [Close Instant Cheats] [in this city] <hidden from users>",
-      "Remove [Open Instant Cheats] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Population",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [Population] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[1] population [in this city]"
-    ]
-  },
-  {
-    "name": "Gold",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Gain [99000] [Gold]",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [Gold] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Policy",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Free Social Policy",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [Policy] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Technology",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Free Technology",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [Technology] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Faith",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Gain [10000] [Faith]",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Only available <when religion is enabled> <hidden from users>",
-      "Remove [Faith] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Great Person",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Free Great Person",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [Great Person] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Spy",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Gain an extra spy",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Only available <when espionage is enabled> <hidden from users>",
-      "Remove [Spy] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Promote Spies",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Only available <when espionage is enabled> <hidden from users>",
-      "Promotes all spies [1] time(s)",
-      "Remove [Promote Spies] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Pantheon Belief",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Gain a free [Pantheon] belief",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Only available <when religion is enabled> <hidden from users>",
-      "Remove [Pantheon Belief] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Founder Belief",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Gain a free [Founder] belief",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Only available <when religion is enabled> <hidden from users>",
-      "Remove [Founder Belief] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Follower Belief",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Gain a free [Follower] belief",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Only available <when religion is enabled> <hidden from users>",
-      "Remove [Follower Belief] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "Enhancer Belief",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Gain a free [Enhancer] belief",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Only available <when religion is enabled> <hidden from users>",
-      "Remove [Enhancer Belief] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
-    "name": "All Researchable Ancient era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Ancient era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Ancient era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Ancient era]"
-    ]
-  },
-  {
-    "name": "All Researchable Classical era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Classical era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Classical era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Classical era]"
-    ]
-  },
-  {
-    "name": "All Researchable Medieval era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Medieval era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Medieval era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Medieval era]"
-    ]
-  },
-  {
-    "name": "All Researchable Renaissance era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Renaissance era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Renaissance era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Renaissance era]"
-    ]
-  },
-  {
-    "name": "All Researchable Industrial era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Industrial era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Industrial era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Industrial era]"
-    ]
-  },
-  {
-    "name": "All Researchable Modern era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Modern era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Modern era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Modern era]"
-    ]
-  },
-  {
-    "name": "All Researchable Atomic era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Atomic era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Atomic era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Atomic era]"
-    ]
-  },
-  {
-    "name": "All Researchable Information era Techs",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <during the [Information era]> <hidden from users>",
-      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
-      "Remove [All Researchable Information era Techs] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[99] free random researchable Tech(s) from the [Information era]"
-    ]
-  }
-]
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <name>Open Passive Cheats</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;for [Human player] Civilizations&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Close Passive Cheats</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Close Passive Cheats] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Open Passive Cheats] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Production +100%</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[+100]% [Production] [in this city]</uniques>
+  </element>
+  <element>
+    <name>Stop Production +100%</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Production +100%]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Production +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Production +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Food +100%</name>
+    <uniques>Can be purchased for [0] [Food] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[+100]% [Food] [in this city]</uniques>
+  </element>
+  <element>
+    <name>Stop Food +100%</name>
+    <uniques>Can be purchased for [0] [Food] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Food +100%]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Food +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Food +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Gold +100%</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[+100]% [Gold] [in this city]</uniques>
+  </element>
+  <element>
+    <name>Stop Gold +100%</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Gold +100%]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Gold +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Gold +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Science +100%</name>
+    <uniques>Can be purchased for [0] [Science] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[+100]% [Science] [in this city]</uniques>
+  </element>
+  <element>
+    <name>Stop Science +100%</name>
+    <uniques>Can be purchased for [0] [Science] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Science +100%]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Science +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Science +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Culture +100%</name>
+    <uniques>Can be purchased for [0] [Culture] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[+100]% [Culture] [in this city]</uniques>
+  </element>
+  <element>
+    <name>Stop Culture +100%</name>
+    <uniques>Can be purchased for [0] [Culture] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Culture +100%]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Culture +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Culture +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Faith +100%</name>
+    <uniques>Can be purchased for [0] [Faith] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when religion is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[+100]% [Faith] [in this city]</uniques>
+  </element>
+  <element>
+    <name>Stop Faith +100%</name>
+    <uniques>Can be purchased for [0] [Faith] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Faith +100%]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Faith +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Faith +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>City Defense +100%</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[+100]% City Strength from defensive buildings</uniques>
+  </element>
+  <element>
+    <name>Stop City Defense +100%</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [City Defense +100%]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [City Defense +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop City Defense +100%] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Fast Improvement</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[-100]% construction time for [All] improvements</uniques>
+  </element>
+  <element>
+    <name>Stop Fast Improvement</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Fast Improvement]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Fast Improvement] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Fast Improvement] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Remove Unhappiness</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[-100]% Unhappiness from [Population] [in this city]</uniques>
+  </element>
+  <element>
+    <name>Stop Unhappiness Removal</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Remove Unhappiness]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Remove Unhappiness] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Unhappiness Removal] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Increase Unit XP</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>New [All] units start with [19999] Experience [in this city]</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Stop Unit XP Increase</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Increase Unit XP]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Increase Unit XP] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Unit XP Increase] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Expert Spies</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>New spies start with [2] level(s)</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when espionage is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Stop Expert Spies</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Expert Spies]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Passive Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Expert Spies] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Stop Expert Spies] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Open Instant Cheats</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;for [Human player] Civilizations&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Close Instant Cheats</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Close Instant Cheats] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Open Instant Cheats] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Population</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Population] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[1] population [in this city]</uniques>
+  </element>
+  <element>
+    <name>Gold</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Gain [99000] [Gold]</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Gold] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Policy</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Free Social Policy</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Policy] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Technology</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Free Technology</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Technology] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Faith</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Gain [10000] [Faith]</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when religion is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Faith] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Great Person</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Free Great Person</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Great Person] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Spy</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Gain an extra spy</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when espionage is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Spy] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Promote Spies</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when espionage is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Promotes all spies [1] time(s)</uniques>
+    <uniques>Remove [Promote Spies] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Pantheon Belief</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Gain a free [Pantheon] belief</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when religion is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Pantheon Belief] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Founder Belief</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Gain a free [Founder] belief</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when religion is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Founder Belief] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Follower Belief</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Gain a free [Follower] belief</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when religion is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Follower Belief] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>Enhancer Belief</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Gain a free [Enhancer] belief</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;when religion is enabled&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [Enhancer Belief] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+  </element>
+  <element>
+    <name>All Researchable Ancient era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Ancient era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Ancient era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Ancient era]</uniques>
+  </element>
+  <element>
+    <name>All Researchable Classical era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Classical era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Classical era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Classical era]</uniques>
+  </element>
+  <element>
+    <name>All Researchable Medieval era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Medieval era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Medieval era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Medieval era]</uniques>
+  </element>
+  <element>
+    <name>All Researchable Renaissance era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Renaissance era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Renaissance era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Renaissance era]</uniques>
+  </element>
+  <element>
+    <name>All Researchable Industrial era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Industrial era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Industrial era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Industrial era]</uniques>
+  </element>
+  <element>
+    <name>All Researchable Modern era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Modern era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Modern era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Modern era]</uniques>
+  </element>
+  <element>
+    <name>All Researchable Atomic era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Atomic era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Atomic era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Atomic era]</uniques>
+  </element>
+  <element>
+    <name>All Researchable Information era Techs</name>
+    <uniques>Can be purchased for [0] [Gold] [in all cities] &lt;hidden from users&gt;</uniques>
+    <uniques>Destroyed when the city is captured &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;during the [Information era]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Only available &lt;in cities with a [Open Instant Cheats]&gt; &lt;hidden from users&gt;</uniques>
+    <uniques>Remove [All Researchable Information era Techs] [in this city] &lt;hidden from users&gt;</uniques>
+    <uniques>Unbuildable &lt;hidden from users&gt;</uniques>
+    <uniques>[99] free random researchable Tech(s) from the [Information era]</uniques>
+  </element>
+</root>
