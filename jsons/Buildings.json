@@ -197,28 +197,6 @@
     ]
   },
   {
-    "name": "Remove Unhappiness",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Unbuildable <hidden from users>",
-      "[-100]% Unhappiness from [Population] [in this city]"
-    ]
-  },
-  {
-    "name": "Stop Unhappiness Removal",
-    "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Only available <in cities with a [Remove Unhappiness]> <hidden from users>",
-      "Remove [Remove Unhappiness] [in this city] <hidden from users>",
-      "Remove [Stop Unhappiness Removal] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
-    ]
-  },
-  {
     "name": "Increase Unit XP",
     "uniques": [
       "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
